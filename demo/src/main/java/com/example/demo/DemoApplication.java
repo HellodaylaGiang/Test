@@ -16,5 +16,8 @@ public class DemoApplication {
 	public void test1(){
 		int x = 555;
 	}
+	public void test33(){
+		int x = 555;
+	}
 
 }
