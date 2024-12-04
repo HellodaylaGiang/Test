@@ -20,4 +20,8 @@ public class DemoApplication {
 		int x = 555;
 	}
 
+	public void test3311(){
+		int x = 555;
+	}
+
 }
