@@ -32,4 +32,8 @@ public class DemoApplication {
 		int x = 555;
 	}
 
+	public void kkkkkkkkkkkkkkkkkk(){
+		int x = 555;
+	}
+
 }
