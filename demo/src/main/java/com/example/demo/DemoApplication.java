@@ -60,9 +60,4 @@ public class DemoApplication {
 	}
 
 
-	public void hopbn(){
-		int x = 5;
-	}
-
-
 }
