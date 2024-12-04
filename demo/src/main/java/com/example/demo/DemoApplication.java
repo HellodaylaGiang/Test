@@ -59,7 +59,5 @@ public class DemoApplication {
 		int x = 5533DDD3333333335;
 	}
 
-	public void chichi(){
-		int x = 5533Dhgfhfh;
-	}
+
 }
