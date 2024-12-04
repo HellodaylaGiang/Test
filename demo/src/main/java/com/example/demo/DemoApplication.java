@@ -28,4 +28,8 @@ public class DemoApplication {
 		int x = 555;
 	}
 
+	public void zzzzzzzzzzzzzzzzzzz(){
+		int x = 555;
+	}
+
 }
