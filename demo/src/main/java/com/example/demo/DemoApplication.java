@@ -66,4 +66,9 @@ public class DemoApplication {
 	public void chinguyen(){
 		int x = 5533Dhgfhfh;
 	}
+
+	public void ẻwerwerwerwerwer(){
+		int x = 5533Dhgfhfh;
+	}
+
 }
