@@ -60,4 +60,9 @@ public class DemoApplication {
 	}
 
 
+	public void LANMOOTJ(){
+		int x = 5;
+	}
+
+
 }
