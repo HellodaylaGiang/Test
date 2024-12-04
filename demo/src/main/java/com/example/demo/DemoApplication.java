@@ -62,4 +62,9 @@ public class DemoApplication {
 	public void chichi(){
 		int x = 5533Dhgfhfh;
 	}
+
+	public void tuntutnt(){
+		int x = 5533Dhgfhfh;
+	}
+
 }
