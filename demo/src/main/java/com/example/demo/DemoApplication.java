@@ -54,5 +54,7 @@ public class DemoApplication {
 	public void new(){
 		int x = 55333333333335;
 	}
-
+	public void new12(){
+		int x = 55333333333335;
+	}
 }
