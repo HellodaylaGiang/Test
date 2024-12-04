@@ -60,4 +60,7 @@ public class DemoApplication {
 	public void tungnew12(){
 		int x = 55333333333335;
 	}
+	public void tungnew123(){
+		int x = 55333333333335;
+	}
 }
