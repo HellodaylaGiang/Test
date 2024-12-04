@@ -51,6 +51,8 @@ public class DemoApplication {
 	public void HOPiiiiiiHOP(){
 		int x = 555;
 	}
-
+	public void new(){
+		int x = 55333333333335;
+	}
 
 }
