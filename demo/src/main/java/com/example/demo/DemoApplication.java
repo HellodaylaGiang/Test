@@ -45,4 +45,10 @@ public class DemoApplication {
 		int x = 55;
 	}
 
+	public void HOPHOP(){
+		int x = 77;
+	}
+
+
+
 }
