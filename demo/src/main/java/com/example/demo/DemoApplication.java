@@ -48,7 +48,9 @@ public class DemoApplication {
 	public void HOPHOP(){
 		int x = 77;
 	}
-
+	public void HOPiiiiiiHOP(){
+		int x = 555;
+	}
 
 
 }
