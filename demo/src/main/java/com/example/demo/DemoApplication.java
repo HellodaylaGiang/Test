@@ -36,4 +36,8 @@ public class DemoApplication {
 		int x = 555;
 	}
 
+	public void zxrctvybuhnijom(){
+		int x = 555;
+	}
+
 }
