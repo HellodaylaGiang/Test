@@ -40,4 +40,9 @@ public class DemoApplication {
 		int x = 555;
 	}
 
+
+	public void azz(){
+		int x = 55;
+	}
+
 }
